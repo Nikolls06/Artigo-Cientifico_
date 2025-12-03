@@ -35,11 +35,8 @@ Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental a
 
 ## 📉 Visualização dos Dados
 
-<p align="left">
-  <img src="Tendência nacional.png" alt="Gráfico de Correlação Reprovação x Abandono" width="700">
-</p>
-<p align="left">
-  <img src="Correlação por região.png" alt="Gráfico de Correlação Reprovação x Abandono" width="700">
+<p align="center">
+  <img src="img/Correlação por região.png" alt="Correlação entre Reprovação e Abandono por Região" width="700">
 </p>
 
 ---
