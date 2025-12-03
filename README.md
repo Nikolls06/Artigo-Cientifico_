@@ -34,5 +34,5 @@ Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental a
 O artigo foi oficialmente aprovado conforme o certificado abaixo:
 
 <p align="center">
-  <img src="img/CERTIFICADO.jpeg" alt="Certificado de Aprovação" width="600">
+  <img src="img/CERTIFICADO.png" alt="Certificado de Aprovação" width="600">
 </p>
