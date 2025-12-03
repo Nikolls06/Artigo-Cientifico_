@@ -1,10 +1,14 @@
+# 📚 Estudo sobre Exclusão Escolar no Brasil
+
+---
+
 ## 🧠 Objetivo do Estudo
 
 Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental apresentam maiores taxas de abandono no Ensino Médio, configurando um ciclo de exclusão escolar.
 
 ---
 
-## 🔧 Tecnologias
+## 🔧 Tecnologias Utilizadas
 
 - Python (pandas, matplotlib, numpy)  
 - Jupyter Notebook  
@@ -27,7 +31,16 @@ Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental a
 - Mudanças metodológicas (2018) e a pandemia (2020–2021) influenciaram simultaneamente ambos os indicadores.  
 - Reduzir reprovação é fundamental para prevenir evasão escolar.  
 
+---
 
+## 📉 Visualização dos Dados
+
+<p align="center">
+  <!-- Substitua 'img/GRAFICO.png' pelo caminho do seu gráfico -->
+  <img src="img/GRAFICO.png" alt="Gráfico de Correlação Reprovação x Abandono" width="700">
+</p>
+
+---
 
 ## 🏅 Certificado de Aprovação
 
