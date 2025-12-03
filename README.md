@@ -36,7 +36,7 @@ Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental a
 ## 📉 Visualização dos Dados
 
 <p align="center">
-  <img src="img/Correlação por região.png" alt="Correlação por Região" width="400">
+  <img src="img/Tendência nacional.png" alt="Correlação por Região" width="400">
 </p>
 
 ---
